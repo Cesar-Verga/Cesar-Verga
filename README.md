@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Data analysis and statistics
+
+- :rocket: always improving my Python skills
+
+
 <!--
 **Cesar-Verga/Cesar-Verga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
