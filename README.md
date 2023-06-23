@@ -9,10 +9,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=Cesar-Verga&show_icons=true&theme=midnight-purple&hide=issues,contribs&rank_icon=github" />
+  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api?username=Cesar-Verga&show_icons=true&theme=midnight-purple&hide=issues,contribs&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" >
-  <img height=166 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Verga&theme=midnight-purple&layout=compact&card_width=250" />
+  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Verga&theme=midnight-purple&layout=compact&card_width=250" />
 </a>
 
 
