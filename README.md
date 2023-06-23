@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - :bar_chart: I’m currently learning Data analysis and statistics
+  
 - :rocket: always improving my Python skills
 
 <br>
@@ -8,7 +9,7 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Verga&theme=midnight-purple&layout=compact&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Verga&theme=midnight-purple&layout=compact&card_width=250" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cesar-Verga&show_icons=true&theme=midnight-purple" />
