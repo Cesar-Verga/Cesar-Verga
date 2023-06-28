@@ -32,7 +32,7 @@ How to reach me:
 
 </a>
 
-<a href="[mailto:cesarhverga0@gmail.com](https://wa.me/5515981309271)" target="_blank">
+<a href="https://wa.me/5515981309271" target="_blank">
   
   ![gmail-badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
